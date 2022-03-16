@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+
+p {
+  margin: auto;
+  border: thin solid black;
+  width: 70%;
+  padding: 5px;
+}
